@@ -76,3 +76,12 @@ Date,food_name,typeoffood,protein,carb,fat,sugar,fiber,calories
 2025-10-20,tofu_croissant,healthy,15,30,10,3,2,300
 2025-10-20,egg_croissant,healthy,12,28,12,2,1,280
 2025-10-20,americano,healthy,1,2,0,0,0,15
+2025-10-21,mocha_frappe,junk,5,50,15,30,2,400
+2025-10-21,tofu_croissant,healthy,15,30,10,3,2,300
+2025-10-21,americano,healthy,1,2,0,0,0,15
+2025-10-21,banana_chocolate_muffin,junk,6,40,15,20,2,350
+2025-10-21,Rice,healthy,4,45,0,0,0,200
+2025-10-21,Paneer_gravy,healthy,12,6,14,0,0,200
+2025-10-22,masala_dosa,healthy,6,50,8,5,3,300
+2025-10-22,protein_bar,healthy,10,11.5,3.5,2.5,1.5,125
+2025-10-22,Dragon_fruit,healthy,2,23,0.2,13,6,120
